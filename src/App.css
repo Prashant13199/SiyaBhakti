@@ -73,6 +73,7 @@
 .chalisa_table {
   text-align: center;
   margin-top: 40px;
+  font-size: 20px;
 }
 
 .chalisa_title {
@@ -81,7 +82,7 @@
 }
 
 .chalisa_single {
-  margin: 10px;
+  margin-right: 10px;
   transition: all .3s;
 }
 
@@ -130,6 +131,6 @@
 }
 
 .react_player {
-  height: 20vh;
   width: 100% !important;
+  height: 40vh !important;
 }
